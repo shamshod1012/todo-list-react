@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "do'konga chiqib kelish",
+      "day": "ertaga",
+      "reminder": false,
+      "id": 1
+    }
+  ]
+}
